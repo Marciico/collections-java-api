@@ -38,6 +38,7 @@ public class ListaTarefas {
 
         lista.removerTarefa("Estudar Java");
         System.out.println("Total de tarefas após remoção: " + lista.obterNumeroTotalTarefas());
+
     }
 
 }
