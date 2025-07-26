@@ -1,3 +1,5 @@
+package com.list;
+
 public class Tarefa {
     private String descricao;
 
@@ -12,7 +14,7 @@ public class Tarefa {
 
     @Override
     public String toString() {
-        return "Tarefa{" +
+        return "com.list.Tarefa{" +
                 "descricao='" + descricao + '\'' +
                 '}';
     }
